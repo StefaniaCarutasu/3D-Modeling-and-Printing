@@ -7,4 +7,6 @@
 * The main components participating in the motion are the 2 spur gears and the crank</br>
 * --what joint / component do you need to power, or what motion study do you need to play to see the motion</br>
 * In the repository there are multiple folders: one for the canvases, one for the stl files fo each of the parts, screenshots from the printer, and f3ds to show the progress for the past 3 weeks</br>
+* I used Autodesk Fusion 360 to desing and render this mechanism</br>
+* Resources: [https://www.instructables.com/id/Pterodactyl-Pseudo-Style/](https://www.instructables.com/id/Pterodactyl-Pseudo-Style/), [https://www.youmagine.com/designs/pterodactyl-pseudo-style](https://www.youmagine.com/designs/pterodactyl-pseudo-style), [https://www.youtube.com/watch?v=B4bh6K46Plg&feature=emb_title](https://www.youtube.com/watch?v=B4bh6K46Plg&feature=emb_title)</br>
 
